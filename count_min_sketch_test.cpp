@@ -52,6 +52,7 @@ int main(int argc, char **argv) {
   cout << "Testing for strings not in ar_str..." << endl;
   cout << c.estimate("blabla") << endl;
   cout << c.estimate("yoyo!") << endl;
+  cout << c.estimate("hello") << endl;
 
   return 0;
 }

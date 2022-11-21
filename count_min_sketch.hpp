@@ -5,7 +5,7 @@
 **/
 
 // define some constants
-# define LONG_PRIME 4294967311l
+# define LONG_PRIME 42949673
 # define MIN(a,b)  (a < b ? a : b)
 
 /** CountMinSketch class definition here **/
